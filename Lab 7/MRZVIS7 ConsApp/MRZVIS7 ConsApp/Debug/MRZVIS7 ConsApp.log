@@ -1,0 +1,47 @@
+﻿  MRZVIS7 ConsApp.cpp
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(46,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(71,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(112,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(118,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(132,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(149,55): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(149,49): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(152,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(154,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(157,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(167,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(180,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(189,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(227,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(229,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(243,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(245,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(297,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(299,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(378,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(387,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(393,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(397,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(399,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(415,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(418,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(425,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(434,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(436,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(440,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(469,58): warning C4244: аргумент: преобразование "long double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\MRZVIS7 ConsApp\MRZVIS7 ConsApp.cpp(487,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MRZVIS7 ConsApp.vcxproj -> C:\WorkPlace\GitHub\University\2course\4semester\MRZVIS\Lab 7\MRZVIS7 ConsApp\Debug\MRZVIS7 ConsApp.exe
